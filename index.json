@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Personal portfolio",
+    "description": "My personal website is my creative playground—a space where I express myself through code, explore the art of web development, and share what I love to build.",
+    "slug": "portfolio",
+    "skills": [
+      "<i class=\"devicon-vuejs-plain\"></i>",
+      "<i class=\"devicon-typescript-plain\"></i>",
+      "<i class=\"devicon-docker-plain\"></i>"
+    ]
+  },
+  {
+    "title": "Test2",
+    "description": "Descrizione breve del progetto 2",
+    "slug": "test-2",
+    "skills": [
+      "<i class=\"devicon-vuejs-plain colored\"></i>",
+      "<i class=\"devicon-typescript-plain colored\"></i>"
+    ]
+  },
+  {
+    "title": "Test3",
+    "description": "Descrizione breve del progetto 3",
+    "slug": "test-3",
+    "skills": [
+      "<i class=\"devicon-vuejs-plain colored\"></i>",
+      "<i class=\"devicon-typescript-plain colored\"></i>"
+    ]
+  }
+]
+
