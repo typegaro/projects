@@ -13,7 +13,8 @@
     "slug": "personal-portfolio",
     "skills": [
       "<i class=\"devicon-vuejs-plain colored\"></i>",
-      "<i class=\"devicon-typescript-plain colored\"></i>"
+      "<i class=\"devicon-typescript-plain colored\"></i>",
+      "<i class=\"devicon-docker-plain colored\"></i>"
     ]
   },
   {
