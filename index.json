@@ -1,7 +1,7 @@
 [
   {
     "title": "Personal portfolio",
-    "description": "My personal website is my creative playground—a space where I express myself through code, explore the art of web development, and share what I love to build.",
+    "description": "My personal website is my creative playground a space where I express myself through code, explore the art of web development, and share what I love to build.",
     "slug": "portfolio",
     "skills": [
       "<i class=\"devicon-vuejs-plain\"></i>",
