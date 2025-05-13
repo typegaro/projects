@@ -4,6 +4,7 @@
     "title": "Article Managing",
     "description": "A system to manage and organize project articles displayed on a website, enabling easy content updates and dynamic rendering without needing backend changes.",
     "slug": "article-managing",
+    "link": "https://github.com/typegaro/projects",
     "skills": [
       "<i class=\"devicon-github-plain\"></i>"
     ],
@@ -21,6 +22,18 @@
     "tags": ["frontend", "javascript", "vue", "docker"]
   },
   {
+    "title": "RAG System for PDF Documents",
+    "description": "This project implements a Retrieval-Augmented Generation (RAG) system that allows querying PDF documents using LLMs. It parses PDFs, stores semantic embeddings in a vector database, and generates accurate answers via OpenAI and DeepSeek models.",
+    "slug": "rag-to-pdf",
+    "link": "https://github.com/typegaro/AskToPDF",
+    "skills": [
+      "<i class=\"devicon-python-plain colored\"></i>",
+      "<i class=\"devicon-docker-plain colored\"></i>",
+      "<i class=\"devicon-openai-plain\"></i>"
+    ],
+    "tags": ["rag", "llm", "openai", "semantic-search", "nlp"]
+  },
+  {
     "title": "Test3",
     "description": "A brief description of project 3, demonstrating the use of various web technologies in creating a dynamic and responsive application.",
     "slug": "test-3",
@@ -29,17 +42,6 @@
       "<i class=\"devicon-typescript-plain colored\"></i>"
     ],
     "tags": ["frontend", "javascript", "vue"]
-  },
-  {
-    "title": "RAG System for PDF Documents",
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) system that allows querying PDF documents using LLMs. It parses PDFs, stores semantic embeddings in a vector database, and generates accurate answers via OpenAI and DeepSeek models.",
-    "slug": "rag-to-pdf",
-    "skills": [
-      "<i class=\"devicon-python-plain colored\"></i>",
-      "<i class=\"devicon-docker-plain colored\"></i>",
-      "<i class=\"devicon-openai-plain\"></i>"
-    ],
-    "tags": ["rag", "llm", "openai", "semantic-search", "nlp"]
   }
 ]
 
