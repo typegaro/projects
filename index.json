@@ -5,7 +5,8 @@
     "slug": "article-managing",
     "skills": [
       "<i class=\"devicon-github-plain\"></i>"
-    ]
+    ],
+    "tags": ["github"]
   },
   {
     "title": "Personal portfolio",
@@ -15,7 +16,8 @@
       "<i class=\"devicon-vuejs-plain colored\"></i>",
       "<i class=\"devicon-typescript-plain colored\"></i>",
       "<i class=\"devicon-docker-plain colored\"></i>"
-    ]
+    ],
+    "tags": ["frontend", "javascript", "vue","docker"]
   },
   {
     "title": "Test3",
@@ -24,6 +26,7 @@
     "skills": [
       "<i class=\"devicon-vuejs-plain colored\"></i>",
       "<i class=\"devicon-typescript-plain colored\"></i>"
-    ]
+    ],
+    "tags": ["frontend", "javascript", "vue"]
   }
 ]
