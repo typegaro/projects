@@ -14,6 +14,7 @@
     "title": "Personal portfolio",
     "description": "My personal website is my creative playground, a space where I express myself through code, explore the art of web development, and share what I love to build.",
     "slug": "personal-portfolio",
+    "link": "",
     "skills": [
       "<i class=\"devicon-vuejs-plain colored\"></i>",
       "<i class=\"devicon-typescript-plain colored\"></i>",
@@ -37,6 +38,7 @@
     "title": "Test3",
     "description": "A brief description of project 3, demonstrating the use of various web technologies in creating a dynamic and responsive application.",
     "slug": "test-3",
+    "link": "",
     "skills": [
       "<i class=\"devicon-vuejs-plain colored\"></i>",
       "<i class=\"devicon-typescript-plain colored\"></i>"
