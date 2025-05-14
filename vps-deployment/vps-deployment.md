@@ -18,6 +18,10 @@ graph TD
   VPS --> Traefik[Traefik Reverse Proxy]
   Traefik --> App[Containerized Web App]
   User[User] -->|HTTPS| Traefik
+
+  linkStyle default stroke:#98be65,stroke-width:2px;
+  classDef yellowBox fill:#282c34,stroke:#da8548,color:#dfdfdf;
+  class Dev,GitHub,CI,DockerHub,Watchtower,VPS,Traefik,App,User yellowBox;
 ````
 
 ---
