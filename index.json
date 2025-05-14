@@ -1,4 +1,3 @@
-
 [
   {
     "title": "Article Managing",
@@ -20,7 +19,7 @@
       "<i class=\"devicon-typescript-plain colored\"></i>",
       "<i class=\"devicon-docker-plain colored\"></i>"
     ],
-    "tags": ["frontend", "javascript", "vue", "docker"]
+    "tags": ["frontend", "javascript","ci/cd", "vue", "docker"]
   },
   {
     "title": "RAG System for PDF Documents",
@@ -35,15 +34,17 @@
     "tags": ["rag", "llm", "openai", "semantic-search", "nlp"]
   },
   {
-    "title": "Test3",
-    "description": "A brief description of project 3, demonstrating the use of various web technologies in creating a dynamic and responsive application.",
-    "slug": "test-3",
-    "link": "",
+    "title": "VPS Deployment Automation",
+    "description": "Automated deployment pipeline using Docker, GitHub Actions, Traefik, and Watchtower on a VPS. Implements CI/CD with private Docker Hub registry and secure HTTPS via Traefik.",
+    "slug": "vps-deployment",
+    "link": "https://github.com/typegaro/vps-docker-compose", 
     "skills": [
-      "<i class=\"devicon-vuejs-plain colored\"></i>",
-      "<i class=\"devicon-typescript-plain colored\"></i>"
+      "<i class=\"devicon-docker-plain colored\"></i>",
+      "<i class=\"devicon-github-original colored\"></i>",
+      "<i class=\"devicon-traefikproxy-plain colored\"></i>",
+      "<i class=\"devicon-bash-plain colored\"></i>"
     ],
-    "tags": ["frontend", "javascript", "vue"]
-  }
+    "tags": ["devops", "ci/cd", "docker", "traefik", "vps","watchtower"]
+   }
 ]
 
