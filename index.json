@@ -15,8 +15,8 @@
     "slug": "ask-to-pdf",
     "link": "https://github.com/typegaro/AskToPDF",
     "skills": [
-      "<i class=\"devicon-python-plain colored\"></i>",
-      "<i class=\"devicon-docker-plain colored\"></i>",
+      "<i class=\"devicon-python-plain\"></i>",
+      "<i class=\"devicon-docker-plain\"></i>",
       "<i class=\"devicon-openai-plain\"></i>"
     ],
     "tags": ["rag", "llm", "openai", "semantic-search", "nlp"]
@@ -27,10 +27,10 @@
     "slug": "vps-deployment",
     "link": "https://github.com/typegaro/vps-docker-compose", 
     "skills": [
-      "<i class=\"devicon-docker-plain colored\"></i>",
-      "<i class=\"devicon-github-original colored\"></i>",
-      "<i class=\"devicon-traefikproxy-plain colored\"></i>",
-      "<i class=\"devicon-bash-plain colored\"></i>"
+      "<i class=\"devicon-docker-plain\"></i>",
+      "<i class=\"devicon-github-original\"></i>",
+      "<i class=\"devicon-traefikproxy-plain\"></i>",
+      "<i class=\"devicon-bash-plain\"></i>"
     ],
     "tags": ["devops", "ci/cd", "docker", "traefik", "vps","watchtower"]
    },
@@ -40,9 +40,9 @@
     "slug": "personal-portfolio",
     "link": "",
     "skills": [
-      "<i class=\"devicon-vuejs-plain colored\"></i>",
-      "<i class=\"devicon-typescript-plain colored\"></i>",
-      "<i class=\"devicon-docker-plain colored\"></i>"
+      "<i class=\"devicon-vuejs-plain\"></i>",
+      "<i class=\"devicon-typescript-plain\"></i>",
+      "<i class=\"devicon-docker-plain\"></i>"
     ],
     "tags": ["frontend", "javascript","ci/cd", "vue", "docker"]
   }
