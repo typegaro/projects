@@ -20,7 +20,7 @@ graph TD
   User[User] -->|HTTPS| Traefik
 
   linkStyle default stroke:#98be65,stroke-width:2px;
-  classDef yellowBox fill:#282c34,stroke:#da8548,color:#dfdfdf;
+  classDef yellowBox fill:#282c34,stroke:#da8548,stroke-width:2px,color:#bbc2cf;
   class Dev,GitHub,CI,DockerHub,Watchtower,VPS,Traefik,App,User yellowBox;
 ````
 
