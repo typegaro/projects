@@ -10,18 +10,6 @@
     "tags": ["github"]
   },
   {
-    "title": "Personal portfolio",
-    "description": "My personal website is my creative playground, a space where I express myself through code, explore the art of web development, and share what I love to build.",
-    "slug": "personal-portfolio",
-    "link": "",
-    "skills": [
-      "<i class=\"devicon-vuejs-plain colored\"></i>",
-      "<i class=\"devicon-typescript-plain colored\"></i>",
-      "<i class=\"devicon-docker-plain colored\"></i>"
-    ],
-    "tags": ["frontend", "javascript","ci/cd", "vue", "docker"]
-  },
-  {
     "title": "RAG System for PDF Documents",
     "description": "This project implements a Retrieval-Augmented Generation (RAG) system that allows querying PDF documents using LLMs. It parses PDFs, stores semantic embeddings in a vector database, and generates accurate answers via OpenAI and DeepSeek models.",
     "slug": "ask-to-pdf",
@@ -45,6 +33,18 @@
       "<i class=\"devicon-bash-plain colored\"></i>"
     ],
     "tags": ["devops", "ci/cd", "docker", "traefik", "vps","watchtower"]
-   }
+   },
+   {
+    "title": "Personal portfolio",
+    "description": "My personal website is my creative playground, a space where I express myself through code, explore the art of web development, and share what I love to build.",
+    "slug": "personal-portfolio",
+    "link": "",
+    "skills": [
+      "<i class=\"devicon-vuejs-plain colored\"></i>",
+      "<i class=\"devicon-typescript-plain colored\"></i>",
+      "<i class=\"devicon-docker-plain colored\"></i>"
+    ],
+    "tags": ["frontend", "javascript","ci/cd", "vue", "docker"]
+  },
 ]
 
