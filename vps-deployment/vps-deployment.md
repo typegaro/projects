@@ -10,18 +10,19 @@ The system supports HTTPS through Traefik and delivers code to production within
 
 ```mermaid
 graph TD
-  Dev[Developer Push] --> GitHub[GitHub Repository]
+  Dev[Developer Push] --> GitHub[Private GitHub Repository]
   GitHub --> CI[GitHub Actions CI/CD]
   CI --> DockerHub[Private Docker Registry]
-  DockerHub --> Watchtower[Watchtower on VPS]
-  Watchtower --> VPS[VPS: Docker Compose]
   VPS --> Traefik[Traefik Reverse Proxy]
-  Traefik --> App[Containerized Web App]
+  Watchtower --> DockerHub[DockerHub]
+  VPS --> Watchtower[Watchtower]
+  VPS --> App[Containerized Web Apps]
   User[User] -->|HTTPS| Traefik
 
   linkStyle default stroke:#98be65,stroke-width:2px;
   classDef yellowBox fill:#282c34,stroke:#da8548,stroke-width:2px,color:#bbc2cf;
   class Dev,GitHub,CI,DockerHub,Watchtower,VPS,Traefik,App,User yellowBox;
+
 ````
 
 ---
