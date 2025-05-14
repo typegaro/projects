@@ -13,11 +13,11 @@ graph TD
   Dev[Developer Push] --> GitHub[GitHub Repository]
   GitHub --> CI[GitHub Actions CI/CD]
   CI --> DockerHub[Private Docker Registry]
-  Watchtower --> DockerHub
+  DockerHub --> Watchtower[Watchtower on VPS]
   Watchtower --> VPS[VPS: Docker Compose]
   VPS --> Traefik[Traefik Reverse Proxy]
-  User[User] -->|HTTPS| Traefik
   Traefik --> App[Containerized Web App]
+  User[User] -->|HTTPS| Traefik
 ````
 
 ---
