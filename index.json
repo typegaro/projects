@@ -45,6 +45,6 @@
       "<i class=\"devicon-docker-plain colored\"></i>"
     ],
     "tags": ["frontend", "javascript","ci/cd", "vue", "docker"]
-  },
+  }
 ]
 
